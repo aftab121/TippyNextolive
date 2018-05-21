@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["aftab@nextolive.com"]
 
   spec.summary       = %q{A gem for geneating tips values based on.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "https://github.com/aftab121/TippyNextolive"
   spec.license       = "MIT"
 
 
